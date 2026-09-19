@@ -1,2 +1,2 @@
 # Fortbuild
-fortbuild is a Minecraft mod that adds Fortnite-style building.
+Fortbuild is a Minecraft mod that adds Fortnite-style building.
